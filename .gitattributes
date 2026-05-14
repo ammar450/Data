@@ -1,0 +1,2 @@
+bia_tracts.geojson filter=lfs diff=lfs merge=lfs -text
+bia_parcels.geojson filter=lfs diff=lfs merge=lfs -text
